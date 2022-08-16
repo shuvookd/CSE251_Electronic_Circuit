@@ -1,2 +1,2 @@
-# CSE251_Electronic_Circuit
+# CSE251 Electronic Circuits
 Course Instructor: Touhid Ahmed Sir
